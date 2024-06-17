@@ -1,4 +1,4 @@
-[![Watch video](https://github.com/cayb0rg/xpline/assets/46247315/a29a9b37-8dd3-4012-a71c-b6b75dabd0f2)](https://drive.google.com/file/d/1wydDA1UgjoA8Hkc9R4vr8T001TVaMsZk/view?usp=sharing)
-
+https://github.com/cayb0rg/xpline/assets/46247315/32b0150f-b2d5-45f0-9d9c-097ac6247d8f
 
 Inspired by the [Line Wobbler](https://www.wobblylabs.com/line-wobbler)!
+
